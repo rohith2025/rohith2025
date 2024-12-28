@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hey there! I'm Rohith Yeluri. 🌟<br><br>As a computer science engineering student, I'm on an exciting journey exploring the tech world. But that's not all! My tech kit is packed with a diverse array of programming languages such as C, C++, Java, Python. Plus, I've got a knack for crafting captivating web experiences using HTML, CSS, JavaScript, and ReactJS.<br><br>🚀 What Drives Me:<br>I thrive on collaboration! Whether it's brainstorming on intriguing projects, crafting intricate algorithms, or designing visually stunning websites, I'm always up for the challenge!<br>💡 My Mission:<br>I'm on a mission to constantly expand my horizons in the ever-evolving world, while also making meaningful contributions to the broader tech community.<br>💬 Let's Connect:<br>Got a brilliant idea to share or just up for a tech chat? Reach out to me on LinkedIn or drop me an email at yelurirohith2025@gmail.com. I'd love to hear from you!<br>
+Hey there! I'm Rohith Yeluri. 🌟<br><br>
+As a computer science engineering student, I'm on an exciting journey exploring the tech world. But that's not all! My tech kit is packed with a diverse array of programming languages such as C, C++, Java, and Python. Plus, I've got a knack for crafting captivating web experiences using HTML, CSS, JavaScript, and ReactJS.<br><br>
+🚀 **What Drives Me:**<br>
+I thrive on collaboration! Whether it's brainstorming on intriguing projects, crafting intricate algorithms, or designing visually stunning websites, I'm always up for the challenge!<br><br>
+💡 **My Mission:**<br>
+I'm on a mission to constantly expand my horizons in the ever-evolving world while making meaningful contributions to the broader tech community.<br><br>
+💬 **Let's Connect:**<br>
+Got a brilliant idea to share or just up for a tech chat? Reach out to me on [LinkedIn](https://www.linkedin.com/in/rohith-yeluri-747a392a6/) or drop me an email at **yelurirohith2025@gmail.com**. I'd love to hear from you!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-yeluri-747a392a6/) 
@@ -28,8 +35,7 @@ Hey there! I'm Rohith Yeluri. 🌟<br><br>As a computer science engineering stud
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith2025&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote="Code is like humor. When you have to explain it, it’s bad." - Cory House)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rohith2025&icon=0&color=0)](https://visitcount.itsvg.in)
